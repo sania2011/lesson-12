@@ -1,0 +1,17 @@
+.parent{
+    gap: 30px;
+    justify-content: center;
+    display: flex;
+}
+
+.child{
+    border: 2px solid black;
+}
+
+button{
+    background-color: aqua;
+    height: 30px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
